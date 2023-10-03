@@ -1,5 +1,10 @@
 # Hello Header h1
 
+## list of things to for next week
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ```R
 # List of characters/strings
 thislist <- list("apple", "banana", "cherry")
