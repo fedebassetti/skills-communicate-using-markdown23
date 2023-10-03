@@ -1,5 +1,7 @@
 # Hello Header h1
 
+:+1: This PR looks great - it's ready to merge! :shipit:
+
 ## list of things to for next week
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
